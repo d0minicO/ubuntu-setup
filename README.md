@@ -148,4 +148,4 @@ sudo ufw status verbose
 
 ## Set up conda/mamba
 
-Next, follow the instructions [here]('./conda_setup.md') to setup conda/mamba
+Next, follow the instructions [here](conda_setup.md) to setup conda/mamba
