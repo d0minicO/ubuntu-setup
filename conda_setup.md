@@ -97,11 +97,13 @@ Open VSCode from command line which will automatically install the VSCode server
 code .
 ```
 
+After launch you will need to install the Jupyter plugin for kernel support, then restart code.
+
 Now activate desired environment, create a ipynb file, and start coding in either Python or R!
 
 ---
 
-✅ **Done!**  
+✅ **Done!**
 You now have:
 - A clean base system with open-source Conda/Mamba
 - Two reproducible, isolated environments for Python and R work
